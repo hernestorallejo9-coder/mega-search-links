@@ -54,7 +54,7 @@ def main():
     url_fetcher = URLFetcher(base_url, user_agent)
 
     # Example search query
-    search_query = "example_query"
+    search_query = "Luanna Moraes"
 
     # Fetch URLs based on the search query
     urls = url_fetcher.fetch_urls(search_query)
